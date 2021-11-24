@@ -1,0 +1,1 @@
+//if(A[i] <= T[i])      vector.push(T[i]-A[i])  
